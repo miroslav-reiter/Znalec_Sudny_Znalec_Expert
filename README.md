@@ -15,7 +15,7 @@ Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami
 
 ## 🧭 Rýchla navigácia
 
-- [Kto je to znalec](#-kto-je-to-znalec-(-súdny-znalec-))
+- [Kto je to znalec](#-kto-je-to-znalec-alebo-súdny-znalec)
 - [Čo je znalecká činnosť](#-čo-je-znalecká-činnosť)
 - [Kto môže znalca osloviť](#-kto-môže-znalca-osloviť)
 - [Odbor Elektrotechnika a IT odvetvia](#-odbor-10-00-00--elektrotechnika-a-it-odvetvia)
@@ -36,7 +36,7 @@ Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami
 
 ---
 
-## 👨‍⚖️ Kto je to znalec (súdny znalec)
+## 👨‍⚖️ Kto je to znalec alebo súdny znalec
 
 Znalec je fyzická alebo právnická osoba **splnomocnená štátom na vykonávanie znaleckej činnosti** podľa zákona č. 382/2004 Z. z.
 

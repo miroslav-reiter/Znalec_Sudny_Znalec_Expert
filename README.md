@@ -15,7 +15,7 @@ Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami
 
 ## 🧭 Rýchla navigácia
 
-- [Čo je znalec](#-čo-je-znalec)
+- [Kto je to znalec](#-kto-je-to-znalec)
 - [Čo je znalecká činnosť](#-čo-je-znalecká-činnosť)
 - [Kto môže znalca osloviť](#-kto-môže-znalca-osloviť)
 - [Odbor Elektrotechnika a IT odvetvia](#-odbor-10-00-00--elektrotechnika-a-it-odvetvia)

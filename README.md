@@ -36,7 +36,7 @@ Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami
 
 ---
 
-## 👨‍⚖️ Čo je znalec
+## 👨‍⚖️ Kto je to znalec (súdny znalec)
 
 Znalec je fyzická alebo právnická osoba **splnomocnená štátom na vykonávanie znaleckej činnosti** podľa zákona č. 382/2004 Z. z.
 
@@ -63,11 +63,11 @@ Znalecká činnosť je **špecializovaná odborná činnosť**, ktorú znalec vy
 
 Medzi znalecké úkony patria najmä:
 
-- znalecký posudok,
-- doplnok znaleckého posudku,
-- odborné stanovisko alebo potvrdenie,
-- odborné vyjadrenie,
-- odborné vysvetlenie.
+1. znalecký posudok
+1. doplnok znaleckého posudku
+1. odborné stanovisko alebo potvrdenie
+1. odborné vyjadrenie
+1. odborné vysvetlenie
 
 Znalec má znaleckú činnosť vykonávať **osobne, riadne, v určenej lehote, účelne, hospodárne a nestranne**.
 
@@ -77,13 +77,13 @@ Znalec má znaleckú činnosť vykonávať **osobne, riadne, v určenej lehote, 
 
 Znalca zapísaného v zozname môže ako zadávateľ osloviť napríklad:
 
-- súd,
-- polícia, prokuratúra alebo iný orgán verejnej moci,
-- advokát,
-- firma alebo iná právnická osoba,
-- fyzická osoba,
-- poisťovňa,
-- verejná inštitúcia.
+1. súd
+1. polícia, prokuratúra alebo iný orgán verejnej moci
+1. advokát
+1. firma alebo iná právnická osoba
+1. fyzická osoba
+1. poisťovňa
+1. verejná inštitúcia
 
 Znalec ad hoc môže vykonávať činnosť iba pre súd alebo iný orgán verejnej moci, ktorý ho ustanovil.
 
@@ -110,17 +110,17 @@ Obsahom odvetvia je skúmanie javov, technických zariadení a systémov súvisi
 
 ### Čo môže znalec skúmať
 
-- stolové PC a pracovné stanice,
-- notebooky,
-- servery,
-- HDD a SSD disky,
-- RAID a dátové úložiská,
-- mobilné zariadenia a SIM karty,
-- periférne zariadenia,
-- sieťovú infraštruktúru,
-- technické komponenty informačných systémov,
-- riadiace a embedded zariadenia,
-- hardvérové poruchy a technické konfigurácie.
+1. stolové PC a pracovné stanice
+1. notebooky
+1. servery
+1. HDD a SSD disky
+1. RAID a dátové úložiská
+1. mobilné zariadenia a SIM karty
+1. periférne zariadenia
+1. sieťovú infraštruktúru
+1. technické komponenty informačných systémov
+1. riadiace, PLC a embedded zariadenia
+1. hardvérové poruchy a technické konfigurácie
 
 ### Praktický príklad
 
@@ -134,16 +134,16 @@ Server prestal fungovať a vznikol spor o príčinu výpadku. Znalec môže skú
 
 ### Čo musí znalec vedieť
 
-- architektúra počítačov,
-- CPU, RAM, základné dosky a radiče,
-- HDD, SSD, RAID a úložné systémy,
-- servery a pracovné stanice,
-- počítačové siete a sieťové zariadenia,
-- mobilné a embedded zariadenia,
-- technická diagnostika,
-- súborové systémy a dátové nosiče,
-- technická dokumentácia,
-- základy digitálnej forenziky a zachovania digitálnych dôkazov.
+1. architektúra počítačov
+1. CPU, RAM, základné dosky a radiče
+1. HDD, SSD, RAID a úložné systémy
+1. servery a pracovné stanice
+1. počítačové siete a sieťové zariadenia
+1. mobilné a embedded zariadenia
+1. technická diagnostika
+1. súborové systémy a dátové nosiče
+1. technická dokumentácia
+1. základy digitálnej forenziky a zachovania digitálnych dôkazov
 
 ---
 
@@ -155,18 +155,18 @@ Znalec v tomto odvetví môže skúmať aj obsah údajov softvéru a údajov spr
 
 ### Typické predmety skúmania
 
-- zákaznícky informačný systém,
-- ERP alebo CRM systém,
-- webová aplikácia,
-- mobilná aplikácia,
-- databázová aplikácia,
-- API a integračné rozhrania,
-- desktopová aplikácia,
-- cloudová služba,
-- zdrojový kód,
-- dátový model a databáza,
-- dokumentácia a požiadavky,
-- história verzií a zmien.
+1. zákaznícky informačný systém
+1. ERP, CRM, CMS, LMS systém
+1. webová aplikácia
+1. mobilná aplikácia
+1. databázová aplikácia
+1. API a integračné rozhrania
+1. desktopová aplikácia
+1. cloudová služba
+1. zdrojový kód
+1. dátový model a databáza
+1. dokumentácia a požiadavky
+1. história verzií, logov a zmien
 
 ### Praktický príklad
 
@@ -256,16 +256,16 @@ Obsahom odvetvia je posudzovanie bezpečnostnej stránky informačných systémo
 
 ### Čo môže znalec skúmať
 
-- používateľské účty,
-- autentifikáciu,
-- autorizáciu,
-- prístupové práva,
-- administrátorské a privilegované účty,
-- logy a auditné záznamy,
-- konfiguráciu systému,
-- zálohovanie a obnovu,
-- bezpečnostnú architektúru,
-- bezpečnostné opatrenia a interné pravidlá.
+1. používateľské účty
+1. autentifikáciu
+1. autorizáciu
+1. prístupové práva
+1. administrátorské a privilegované účty
+1. logy a auditné záznamy
+1. konfiguráciu systému
+1. zálohovanie a obnovu
+1. bezpečnostnú architektúru
+1. bezpečnostné opatrenia a interné pravidlá
 
 ### Praktický príklad
 
@@ -291,18 +291,18 @@ Bezpečnostné opatrenia
 
 ### Čo musí znalec vedieť
 
-- IAM – Identity and Access Management,
-- Authentication vs. Authorization,
-- RBAC a ACL,
-- privilegované účty,
-- bezpečnosť dát,
-- šifrovanie,
-- backup a recovery,
-- logging a auditing,
-- bezpečnostná architektúra,
-- bezpečnostné politiky a postupy,
-- riadenie rizík,
-- relevantné technické normy, napríklad ISO/IEC 27001 a ISO/IEC 27002 podľa predmetu skúmania.
+1. IAM – Identity and Access Management  
+1. Authentication vs. Authorization  
+1. RBAC a ACL  
+1. privilegované účty  
+1. bezpečnosť dát 
+1. šifrovanie  
+1. backup a recovery
+1. logging a auditing  
+1. bezpečnostná architektúra  
+1. bezpečnostné politiky a postupy  
+1. riadenie rizík  
+1. relevantné technické normy, napríklad ISO/IEC 27001 a ISO/IEC 27002 podľa predmetu skúmania  
 
 ---
 
@@ -656,14 +656,14 @@ Nestačí byť dobrý programátor, administrátor alebo bezpečnostný špecial
 
 Znalec musí vedieť:
 
-- technický problém analyzovať,
-- zachovať a zdokumentovať podklady,
-- zvoliť obhájiteľnú metodiku,
-- pracovať s neistotou a obmedzeniami dát,
-- oddeliť fakt od predpokladu,
-- vysvetliť odborné uvažovanie,
-- vytvoriť preskúmateľný znalecký úkon,
-- obhájiť odborné závery pred zadávateľom alebo súdom.
+1. technický problém analyzovať
+1. zachovať a zdokumentovať podklady
+1. zvoliť obhájiteľnú metodiku
+1. pracovať s neistotou a obmedzeniami dát
+1. oddeliť fakt od predpokladu
+1. vysvetliť odborné uvažovanie
+1. vytvoriť preskúmateľný znalecký úkon
+1. obhájiť odborné závery pred zadávateľom alebo súdom
 
 ---
 
@@ -772,7 +772,7 @@ Pri konkrétnom výpočte znalečného vždy kontrolujeme **aktuálne znenie vyh
 
 ## 🧠 Praktické administratívne tipy pre znalca
 
-- používať samostatný profesionálny e-mail pre znaleckú činnosť,
+- používať samostatný profesionálny e-mail pre znaleckú činnosť napr znalec@nieco.sk,
 - pravidelne kontrolovať údaje vedené v zozname znalcov,
 - udržiavať aktuálne kontaktné a identifikačné údaje,
 - mať prehľad o poistení a podmienkach výkonu znaleckej činnosti,
@@ -786,7 +786,7 @@ Pri konkrétnom výpočte znalečného vždy kontrolujeme **aktuálne znenie vyh
 
 Pri znaleckej a forenznej činnosti pracujeme často s veľmi citlivými dátami. Preto:
 
-- nezverejňujeme reálne dôkazné materiály v tomto verejnom repozitári,
+- nezverejňujeme reálne dôkazné materiály vo verejných repozitároch, úložiskách a cloudoch,
 - neukladáme sem osobné údaje, heslá, API tokeny ani produkčné logy,
 - anonymizujeme tréningové a ukážkové dáta,
 - zachovávame mlčanlivosť,

@@ -772,13 +772,15 @@ Pri konkrétnom výpočte znalečného vždy kontrolujeme **aktuálne znenie vyh
 
 ## 🧠 Praktické administratívne tipy pre znalca
 
-- používať samostatný profesionálny e-mail pre znaleckú činnosť napr znalec@nieco.sk,
-- pravidelne kontrolovať údaje vedené v zozname znalcov,
-- udržiavať aktuálne kontaktné a identifikačné údaje,
-- mať prehľad o poistení a podmienkach výkonu znaleckej činnosti,
-- viesť dôslednú evidenciu prevzatých podkladov a vykonaných úkonov,
-- chrániť osobné údaje, obchodné tajomstvo a dôverné technické informácie,
-- uchovávať pracovné dáta oddelene od bežných osobných alebo firemných dát.
+- používať samostatný profesionálny e-mail pre znaleckú činnosť napr znalec@nieco.sk
+- pravidelne kontrolovať údaje vedené v zozname znalcov
+- udržiavať aktuálne kontaktné a identifikačné údaje
+- mať prehľad o poistení a podmienkach výkonu znaleckej činnosti
+- viesť dôslednú evidenciu prevzatých podkladov a vykonaných úkonov
+- chrániť osobné údaje, obchodné tajomstvo a dôverné technické informácie
+- uchovávať pracovné dáta oddelene od bežných osobných alebo firemných dát
+- Využiť ponuku lepšieho poistenia znalca od Vladimíra Maxa, má lepšie zmluvné podmienky s Generali  
+- Doplniť si do profilu Identifikačné údaje zamestnávateľa, treba napísať pani alena.cirbusova@justice.sk 
 
 ---
 

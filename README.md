@@ -15,24 +15,24 @@ Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami
 
 ## 🧭 Rýchla navigácia
 
-- [Kto je to znalec alebo súdny znalec](#-kto-je-to-znalec-alebo-súdny-znalec)
-- [Čo je znalecká činnosť](#-čo-je-znalecká-činnosť)
-- [Kto môže znalca osloviť](#-kto-môže-znalca-osloviť)
-- [Odbor Elektrotechnika a IT odvetvia](#-odbor-10-00-00--elektrotechnika-a-it-odvetvia)
-- [Riadiaca a výpočtová technika – hardvér](#-10-04-00--riadiaca-technika-výpočtová-technika-hardvér)
-- [Počítačové programy – softvér](#-10-09-00--počítačové-programy-softvér)
-- [Bezpečnosť informačných systémov](#-10-10-00--bezpečnosť-a-ochrana-informačných-systémov)
-- [Kybernetická bezpečnosť](#-10-11-00--kybernetická-bezpečnosť)
-- [Čo znalec robí a čo nerobí](#-čo-znalec-robí-a-čo-nerobí)
-- [Ako sa stať znalcom](#-ako-sa-stať-znalcom)
-- [Znalecký posudok](#-ako-vyzerá-znalecký-posudok)
-- [Praktické znalecké otázky](#-praktické-znalecké-otázky)
-- [Digitálna forenzika mobilných zariadení](#-digitálna-forenzika-mobilných-zariadení)
-- [Forenzné skúmanie počítača a diskov](#-forenzné-skúmanie-pc-diskov-a-dátových-nosičov)
-- [Nástroje](#-nástroje-pre-digitálnu-forenziku)
-- [Cieľové skupiny](#-cieľové-skupiny)
-- [Štruktúra repozitára](#-štruktúra-repozitára)
-- [Zákony a zdroje](#-zákony-vyhlášky-a-oficiálne-zdroje)
+1. [Kto je to znalec alebo súdny znalec](#-kto-je-to-znalec-alebo-súdny-znalec)
+1. [Čo je znalecká činnosť](#-čo-je-znalecká-činnosť)
+1. [Kto môže znalca osloviť](#-kto-môže-znalca-osloviť)
+1. [Odbor Elektrotechnika a IT odvetvia](#-odbor-10-00-00--elektrotechnika-a-it-odvetvia)
+1. [Riadiaca a výpočtová technika – hardvér](#-10-04-00--riadiaca-technika-výpočtová-technika-hardvér)
+1. [Počítačové programy – softvér](#-10-09-00--počítačové-programy-softvér)
+1. [Bezpečnosť informačných systémov](#-10-10-00--bezpečnosť-a-ochrana-informačných-systémov)
+1. [Kybernetická bezpečnosť](#-10-11-00--kybernetická-bezpečnosť)
+1. [Čo znalec robí a čo nerobí](#-čo-znalec-robí-a-čo-nerobí)
+1. [Ako sa stať znalcom](#-ako-sa-stať-znalcom)
+1. [Znalecký posudok](#-ako-vyzerá-znalecký-posudok)
+1. [Praktické znalecké otázky](#-praktické-znalecké-otázky)
+1. [Digitálna forenzika mobilných zariadení](#-digitálna-forenzika-mobilných-zariadení)
+1. [Forenzné skúmanie počítača a diskov](#-forenzné-skúmanie-pc-diskov-a-dátových-nosičov)
+1. [Nástroje](#-nástroje-pre-digitálnu-forenziku)
+1. [Cieľové skupiny](#-cieľové-skupiny)
+1. [Štruktúra repozitára](#-štruktúra-repozitára)
+1. [Zákony a zdroje](#-zákony-vyhlášky-a-oficiálne-zdroje)
 
 ---
 
@@ -54,7 +54,7 @@ Znalec môže byť:
 Označenie **súdny znalec** sa bežne používa najmä vtedy, keď znalec vykonáva znaleckú činnosť pre súd. Znalec zapísaný v zozname však môže vykonávať činnosť aj pre iný orgán verejnej moci, fyzickú osobu alebo právnickú osobu.
 
 Oficiálne informácie: [Ministerstvo spravodlivosti SR – Informácie pre verejnosť](https://www.justice.gov.sk/sluzby/znalci-tlmocnici-a-prekladatelia/informacie-pre-verejnost/)
-
+Podmienky zápisu do zoznamu znalcov [Ministerstvo spravodlivosti SR Podmienky zápisu do zoznamu znalcov](https://www.justice.gov.sk/podmienky-na-na-zapis-do-zoznamu-znalcov-tlmocnikov-a-prekladatelov/)  
 ---
 
 ## 🔬 Čo je znalecká činnosť

@@ -7,7 +7,7 @@
 
 Praktický repozitár k znaleckej a súdnoznaleckej činnosti v odbore **10 00 00 – Elektrotechnika**, so zameraním najmä na **počítačové programy (softvér)**, **bezpečnosť a ochranu informačných systémov**, **kybernetickú bezpečnosť** a **riadiacu a výpočtovú techniku (hardvér)**.
 
-Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami: softvérové inžinierstvo, hardvér, informačné systémy, digitálna forenzika, bezpečnostné incidenty, digitálne stopy, znalecké posudky a odborné skúšky.
+Repozitár prepája právny rámec znaleckej činnosti s praktickými IT témami: softvérové inžinierstvo, hardvér, informačné systémy, digitálna forenzika, bezpečnostné incidenty, digitálne stopy, znalecké posudky a odborné skúšky.  
 
 > **Stav legislatívnych odkazov:** september 2026. Pri právnych predpisoch vždy overujeme aktuálne konsolidované znenie v Slov-Lexe a aktuálne metodické informácie Ministerstva spravodlivosti SR.
 
@@ -51,10 +51,11 @@ Znalec môže byť:
 
 > **Súd pozná právo. Znalec poskytuje odborné poznatky z oblasti, ktorú posudzuje.**
 
-Označenie **súdny znalec** sa bežne používa najmä vtedy, keď znalec vykonáva znaleckú činnosť pre súd. Znalec zapísaný v zozname však môže vykonávať činnosť aj pre iný orgán verejnej moci, fyzickú osobu alebo právnickú osobu.
+Označenie **súdny znalec** sa bežne používa najmä vtedy, keď znalec vykonáva znaleckú činnosť pre súd. Znalec zapísaný v zozname však môže vykonávať činnosť aj pre iný orgán verejnej moci, fyzickú osobu alebo právnickú osobu.  
 
-Oficiálne informácie: [Ministerstvo spravodlivosti SR – Informácie pre verejnosť](https://www.justice.gov.sk/sluzby/znalci-tlmocnici-a-prekladatelia/informacie-pre-verejnost/)
-Podmienky zápisu do zoznamu znalcov [Ministerstvo spravodlivosti SR Podmienky zápisu do zoznamu znalcov](https://www.justice.gov.sk/podmienky-na-na-zapis-do-zoznamu-znalcov-tlmocnikov-a-prekladatelov/)  
+Oficiálne informácie: [Ministerstvo spravodlivosti SR – Informácie pre verejnosť](https://www.justice.gov.sk/sluzby/znalci-tlmocnici-a-prekladatelia/informacie-pre-verejnost/)  
+Podmienky zápisu do zoznamu znalcov: [Ministerstvo spravodlivosti SR Podmienky zápisu do zoznamu znalcov](https://www.justice.gov.sk/podmienky-na-na-zapis-do-zoznamu-znalcov-tlmocnikov-a-prekladatelov/)  
+Znalci v Českej Republike: [Ministerstvo spravodlivosti ČR](https://znalci.justice.cz/dokumenty) 
 ---
 
 ## 🔬 Čo je znalecká činnosť

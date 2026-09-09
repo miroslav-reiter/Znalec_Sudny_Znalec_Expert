@@ -56,6 +56,7 @@ Označenie **súdny znalec** sa bežne používa najmä vtedy, keď znalec vykon
 Oficiálne informácie: [Ministerstvo spravodlivosti SR – Informácie pre verejnosť](https://www.justice.gov.sk/sluzby/znalci-tlmocnici-a-prekladatelia/informacie-pre-verejnost/)  
 Podmienky zápisu do zoznamu znalcov: [Ministerstvo spravodlivosti SR Podmienky zápisu do zoznamu znalcov](https://www.justice.gov.sk/podmienky-na-na-zapis-do-zoznamu-znalcov-tlmocnikov-a-prekladatelov/)  
 Znalci v Českej Republike: [Ministerstvo spravodlivosti ČR](https://znalci.justice.cz/dokumenty) 
+
 ---
 
 ## 🔬 Čo je znalecká činnosť
